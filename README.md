@@ -47,7 +47,7 @@ However, this is not an academic calculation method.
 # License
 
 Copyright (c) 2020 Yusuke Sakabe  
-Released under the [MIT license](https://github.com/yusuke-1105/PBL-Everyone-/blob/master/LICENSE)
+Released under the [MIT license](https://github.com/yusuke-1105/Search-on-Twitter/blob/master/LICENSE)
 
 # Credit
 
