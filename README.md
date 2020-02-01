@@ -31,7 +31,7 @@ Prepare on the assumption that you already have TWITTER & DROPBOX API Key.
 4. Check your tweet and you can know what you wanna know.
 
 # How to work
-![](https://github.com/yusuke-1105/Search-on-Twitter/blob/master/explanation/calculation.jpg)
+![](https://github.com/yusuke-1105/Search-on-Twitter/blob/master/calculation.jpg)
   
 This program outputs each value of ***Positive**, **Neutral** and **Negative***.  
 But the image processing, which is a part of this program, returns the values of ***Angry**, **Disgust**, **Fear**, **Sad**, **Surprise**, **Neutral** and **Happy***.  
