@@ -210,8 +210,9 @@ if __name__ == '__main__':
             import traceback
 
             traceback.print_exc()
+            # IFTTT
             notification = "***エラーが発生したためこの処理は終了されました***"
             payload = {"value1": notification, "value2": traceback.format_exc(chain=True)}
-            url = "https://maker.ifttt.com/trigger/error/with/key/orpDw7U1JiFj2NY_aHumYeBFNmUYiIWTQPwkukuxN28"
+            url = "<Yours>"
             response = requests.post(url, data=payload)
             print(notification)
